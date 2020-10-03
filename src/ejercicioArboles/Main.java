@@ -33,7 +33,7 @@ public class Main {
 		lista.insertar(v10);
 		
 		System.out.println("El vendedor v3 obtuvo un balance de "+lista.obtenerBalance(v3));
-		System.out.println("El total es "+lista.obtenerTotal());
+		System.out.println("El  total es "+lista.obtenerTotal());
 		System.out.println("El mayor balance es de "+lista.mayor().balance);
 		System.out.println("El menor balance es de "+lista.menor().balance);
 		
